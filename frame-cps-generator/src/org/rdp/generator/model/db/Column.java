@@ -7,7 +7,7 @@ import org.rdp.generator.utils.DatabaseDataTypesUtils;
 import org.rdp.generator.utils.JavaDataTypesUtils;
 import org.rdp.generator.utils.StringHelper;
 
-
+    
 /**ClassName:Column
  * Function: 列出一组colum的
  * @author   lh
