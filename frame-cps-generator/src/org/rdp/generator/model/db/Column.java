@@ -9,7 +9,7 @@ import org.rdp.generator.utils.StringHelper;
 
     
 /**ClassName:Column
- * Function: 列出一组colum的
+ * Function: 列出一组colum的事实上是事实是事实是事实是事实是事实上生生世世
  * @author   lh
  * @Date	 2016	2016年1月20日		下午7:59:08
  */
