@@ -8,6 +8,11 @@ import org.rdp.generator.utils.JavaDataTypesUtils;
 import org.rdp.generator.utils.StringHelper;
 
 
+/**ClassName:Column
+ * Function: 列出一组colum的
+ * @author   lh
+ * @Date	 2016	2016年1月20日		下午7:59:08
+ */
 public class Column {  
 	/**
 	 * Reference to the containing table
