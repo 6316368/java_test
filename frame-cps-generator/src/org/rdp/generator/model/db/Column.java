@@ -8,7 +8,7 @@ import org.rdp.generator.utils.JavaDataTypesUtils;
 import org.rdp.generator.utils.StringHelper;
 
 
-public class Column {
+public class Column {  
 	/**
 	 * Reference to the containing table
 	 */
